@@ -1,3 +1,20 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
+}
+
+.header_title {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 80%;
 }
